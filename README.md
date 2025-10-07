@@ -219,5 +219,5 @@ Customer and Driver Cancellations: Customer-initiated cancellations are higher t
 Customer Behavior & Revenue Trends:Top 5 customers contribute a significant number of rides, indicating loyal users who should be targeted with rewards or loyalty programs.Most popular pickup and drop locations reveal high-demand routes, which can help in strategic driver deployment.
 Payment Trends:A substantial number of transactions were made via UPI, indicating a shift towards digital payments.
 Ride Completion & Quality:Incomplete rides and their reasons can help improve service quality and customer satisfaction.
-<img width="900" height="600" alt="ola logo -3" src="https://github.com/user-attachments/assets/02f3fd03-ff09-4343-ae1f-289a3c2a54db" />
-<img width="900" height="600" alt="ola logo -3" src="https://github.com/user-attachments/assets/a047392e-7bfd-49a2-8b5c-9b392536b953" />
+
+
